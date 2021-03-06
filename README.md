@@ -14,7 +14,7 @@ Now navigate to the directory,
 Install the node.js dependencies
 
 ```bash
-npm install
+npm install -g npm@7.0.15
 ```
 The IPFS-api
 
